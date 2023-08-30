@@ -33,7 +33,7 @@ Modernization and digital transformation of healthcare facilities is all the mor
 
 <!-- markdownlint-disable MD034 -->
 
-> [!VIDEO https://www.youtube.com/embed/ehv6UL-_MoE]
+>  [!VIDEO https://learn-video.azurefd.net/vod/player?show=azure-videos&ep=azure-for-healthcare]
 
 <!-- markdownlint-enable MD034 -->
 
